@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![Output](PRE.png)
+
+### Name: R.DEEPIKA
+### Register Number: 212225230046
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
