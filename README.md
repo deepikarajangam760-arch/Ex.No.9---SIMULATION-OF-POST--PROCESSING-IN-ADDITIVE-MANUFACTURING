@@ -47,7 +47,13 @@
 
 ## Output:
 
-![Output](PRE.png)
+![Output](DIA1.png)
+
+![Output](DIA2.png)
+
+![Output](DIA3.png)
+
+
 
 ### Name: R.DEEPIKA
 ### Register Number: 212225230046
